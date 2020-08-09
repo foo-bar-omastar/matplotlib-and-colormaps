@@ -12,11 +12,11 @@ Below are the details for the individual files in this repository.
 
 ### Creating and Using Colormaps in Plots:
 
-* **your_own_colormap.ipynb** : Creating a Color-blind friendly colormap using the [CubeHelix Generator](https://github.com/DrosteEffect/CubeHelix)
-* **2D_contour_plot.ipynb** : Creating a contour plot that utilises a user-created colormap for a pendulum function f:[-pi,pi]x[0,1] defined by f(x,y) = y.cos(x/2)
+* **[your_own_colormap.ipynb](https://github.com/foo-bar-omastar/matplotlib-and-colormaps/blob/master/your_own_colormap.ipynb)** : Creating a Color-blind friendly colormap using the [CubeHelix Generator](https://github.com/DrosteEffect/CubeHelix)
+* **[2D_contour_plot.ipynb](https://github.com/foo-bar-omastar/matplotlib-and-colormaps/blob/master/2D_contour_plot.ipynb)** : Creating a contour plot that utilises a user-created colormap for a pendulum function f:[-pi,pi]x[0,1] defined by f(x,y) = y.cos(x/2)
 
 ### Contour, Streamline and Quiver Plots
 
-* **pendulum_contour.ipynb**
-* **pendulum_quiver_plot.ipynb**
-* **pendulum_streamline_plot.ipynb**
+* **[pendulum_contour.ipynb](https://github.com/foo-bar-omastar/matplotlib-and-colormaps/blob/master/pendulum_contour.ipynb)**
+* **[pendulum_quiver_plot.ipynb](https://github.com/foo-bar-omastar/matplotlib-and-colormaps/blob/master/pendulum_quiver_plot.ipynb)**
+* **[pendulum_streamline_plot.ipynb](https://github.com/foo-bar-omastar/matplotlib-and-colormaps/blob/master/pendulum_streamline_plot.ipynb)**
